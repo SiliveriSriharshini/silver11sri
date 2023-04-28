@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @silver11sri
+- 👋 Hi, I’m @Silveri_Sriharshini
+- 📖 I'm pursuing my B.Tech in National INstitute of Technology Andhra Pradesh
 - 👀 I’m interested in coding with AI
 - 🌱 I’m currently learning Machine Learning and DSA
 - 💞️ I’m looking to collaborate on projects built using Machine learning and Artificial Intelligence.
