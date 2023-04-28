@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silver11sri
 - 👀 I’m interested in coding with AI
 - 🌱 I’m currently learning Machine Learning and DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects built using Machine learning and Artificial Intelligence.
 - 📫 How to reach me? reach me on mail siliverisriharshini@gmail.com
 
 <!---
